@@ -32,7 +32,7 @@ para agregar valor ao desenvolvimento de produtos digitais.
 
 ## 📂 Projetos em Destaque
 
-- 🌐 **Dev Previsão** → Aplicação de previsão do tempo com geolocalização e API de clima.
+- 🌐 **Dev Previsão** → [Aplicação de previsão do tempo com geolocalização e API de clima.](https://joaodev-pro.github.io/Dev-Previsao-do-Tempo/)
 
 ## 🎓 Formação Acadêmica  
 - 📚 **Análise e Desenvolvimento de Sistemas** – (Unifor - 5º semestre)
