@@ -1,10 +1,10 @@
 ###  Olá, eu sou João Victor!🫡
 
-💻 Desenvolvedor Front-end em formação
+💻 Desenvolvedor Full Stack em formação
 |📍 Fortaleza - CE, Brasil  
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moraisvictorpro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/joao-victor-devs/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-devs/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jota.morais_/?next=%2F)
 
 
@@ -33,9 +33,10 @@ para agregar valor ao desenvolvimento de produtos digitais.
 ## 📂 Projetos em Destaque
 
 - 🌐 **Dev Previsão** → [Aplicação de previsão do tempo com geolocalização e API de clima.](https://joaodev-pro.github.io/Dev-Previsao-do-Tempo/)
+- 💱 **CambioFacil** → [CambioFácil](https://joaodev-pro.github.io/CambioFacil/) - Conversor de moedas 
 
 ## 🎓 Formação Acadêmica  
-- 📚 **Análise e Desenvolvimento de Sistemas** – (Unifor - 5º semestre)
+- 📚 **Análise e Desenvolvimento de Sistemas** – (Unifor)
 - 🚀 **Aluno DevClub** – Formação FullStack (Front-end em andamento)  
 - 🎓 **Técnico em Segurança do Trabalho** (2023)  
 
