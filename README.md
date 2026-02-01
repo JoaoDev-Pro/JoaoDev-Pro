@@ -39,8 +39,7 @@ para agregar valor ao desenvolvimento de produtos digitais.
 - 🎓 **Técnico em Segurança do Trabalho** (2023)  
 
 ## 📈 Estatísticas
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaodev-pro&show_icons=true)
-![Streak](https://streak-stats.demolab.com?user=joaodev-pro)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoaoDev-Pro&show_icons=true&theme=radical)
 
 ## 📊 Principais idiomas
 
