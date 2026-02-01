@@ -7,9 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-devs/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jota.morais_/?next=%2F)
 
-
-
-
 ## 🚀 Perfil
 - Profissional em transição de carreira para a área de programação com background sólido na área de
 Segurança do Trabalho da construção civil. Habilidade em desenvolvimento de sistemas utilizando HTML,
@@ -34,7 +31,7 @@ para agregar valor ao desenvolvimento de produtos digitais.
 
 - 🌐 **Dev Previsão** → [Aplicação de previsão do tempo com geolocalização e API de clima.](https://joaodev-pro.github.io/Dev-Previsao-do-Tempo/)
 - 💱 **CambioFacil** → [CambioFácil](https://joaodev-pro.github.io/CambioFacil/)
-- 🎯 **SorteadorDev** → [Aplicação web para sorteio de números aleatórios com interface moderna, efeitos visuais neon e histórico de resultados.](https://joaodev-pro.github.io/sorteador-dev/)
+- 🎯 **SorteadorDev** → [Aplicação web para sorteio de números aleatórios com interface moderna, efeitos visuais neon e histórico de resultados.](https://joaodev-pro.github.io/Sorteador-Dev/)
 
 ## 🎓 Formação Acadêmica  
 - 📚 **Análise e Desenvolvimento de Sistemas** – (Unifor)
