@@ -30,10 +30,11 @@ para agregar valor ao desenvolvimento de produtos digitais.
 <img align="center" alt="GI" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-## 📂 Projetos em Destaque
+## 📂 Projetos em Destaque (Front-end)
 
 - 🌐 **Dev Previsão** → [Aplicação de previsão do tempo com geolocalização e API de clima.](https://joaodev-pro.github.io/Dev-Previsao-do-Tempo/)
-- 💱 **CambioFacil** → [CambioFácil](https://joaodev-pro.github.io/CambioFacil/) - Conversor de moedas 
+- 💱 **CambioFacil** → [CambioFácil](https://joaodev-pro.github.io/CambioFacil/)
+- 🎯 **SorteadorDev** → [Aplicação web para sorteio de números aleatórios com interface moderna, efeitos visuais neon e histórico de resultados.](https://joaodev-pro.github.io/sorteador-dev/)
 
 ## 🎓 Formação Acadêmica  
 - 📚 **Análise e Desenvolvimento de Sistemas** – (Unifor)
