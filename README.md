@@ -38,9 +38,9 @@ para agregar valor ao desenvolvimento de produtos digitais.
 - 🚀 **Aluno DevClub** – Formação FullStack (Front-end em andamento)  
 - 🎓 **Técnico em Segurança do Trabalho** (2023)  
 
-## 📈 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaodev-pro&show_icons=true&theme=highcontrast)
+## 📈 Estatísticas
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaodev-pro&show_icons=true)
+![Streak](https://streak-stats.demolab.com?user=joaodev-pro)
 
 ## 📊 Principais idiomas
 
