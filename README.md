@@ -40,7 +40,7 @@ para agregar valor ao desenvolvimento de produtos digitais.
 
 ## 📈 Estatísticas do GitHub
 
-![joão GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoDev-Pro&show_icons=true&theme=highcontrast)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaodev-pro&show_icons=true&theme=highcontrast)
 
 ## 📊 Principais idiomas
 
