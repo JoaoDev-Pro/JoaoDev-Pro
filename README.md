@@ -29,9 +29,10 @@ para agregar valor ao desenvolvimento de produtos digitais.
 
 ## 📂 Projetos em Destaque (Front-end)
 
-- 🌐 **Dev Previsão** → [Aplicação de previsão do tempo com geolocalização e API de clima.](https://joaodev-pro.github.io/Dev-Previsao-do-Tempo/)
-- 💱 **CambioFacil** → [CambioFácil](https://joaodev-pro.github.io/CambioFacil/)
+- 💼 **Portfólio - João Victor | Desenvolvedor Front-end** → [Meu portfólio profissional, desenvolvido para apresentar meus projetos, habilidades e evolução como desenvolvedor Front-end.](https://joaodev-pro.vercel.app/)
+- 📦 **ProEPI – Sistema de Gestão de Estoque de EPIs** → [m sistema SaaS (Software as a Service) desenvolvido para modernizar e simplificar o controle de estoque de Equipamentos de Proteção Individual (EPIs).](https://pro-e-pi-sistema-de-gest-o.vercel.app/)
 - 🎯 **SorteadorDev** → [Aplicação web para sorteio de números aleatórios com interface moderna, efeitos visuais neon e histórico de resultados.](https://joaodev-pro.github.io/Sorteador-Dev/)
+- 🌐 **Dev Previsão** → [Aplicação de previsão do tempo com geolocalização e API de clima.](https://joaodev-pro.github.io/Dev-Previsao-do-Tempo/)
 
 ## 🎓 Formação Acadêmica  
 - 📚 **Análise e Desenvolvimento de Sistemas** – (Unifor)
